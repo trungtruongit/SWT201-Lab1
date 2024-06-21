@@ -1,0 +1,6 @@
+D:\FPTUniversity\Semester5\SWT301_PhuongLHK\EquationSolver\obj\Debug\EquationSolver.csproj.AssemblyReference.cache
+D:\FPTUniversity\Semester5\SWT301_PhuongLHK\EquationSolver\obj\Debug\EquationSolver.csproj.CoreCompileInputs.cache
+D:\FPTUniversity\Semester5\SWT301_PhuongLHK\EquationSolver\bin\Debug\EquationSolver.dll
+D:\FPTUniversity\Semester5\SWT301_PhuongLHK\EquationSolver\bin\Debug\EquationSolver.pdb
+D:\FPTUniversity\Semester5\SWT301_PhuongLHK\EquationSolver\obj\Debug\EquationSolver.dll
+D:\FPTUniversity\Semester5\SWT301_PhuongLHK\EquationSolver\obj\Debug\EquationSolver.pdb
